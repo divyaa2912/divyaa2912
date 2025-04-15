@@ -6,7 +6,8 @@ Passionate **Artificial Intelligence Engineer** with in-demand skills in **Java,
 💡 Strong foundation in **programming and problem-solving**  
 🤝 Excellent **communication and collaboration** skills  
 📚 Always **learning new technologies** to stay ahead in the field 
-<img src="https://media.giphy.com/media/9xBkeTB5XY1ahOqgMW/giphy.gif?cid=ecf05e47i4kjq2g1g0gflnuprlr7zvb3jwkviwbv96w8594v&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHpveHN6eGZkZTRvYTJzYjc0bWk4YzUxd294eG5hcHhodG0wdzNldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PvWTxFbJ0EWonB2dCb/giphy.gif">
 ## 🔍 Looking for Opportunities  
 I am currently seeking opportunities where I can:  
 ✔ Apply my skills to **real-world projects**  
